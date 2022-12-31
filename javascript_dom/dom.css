@@ -1,0 +1,27 @@
+.hidden-content {
+  display: none;
+}
+.hidden-content.reveal-btn {
+  display: block;
+}
+.div2 {
+  background-color: green;
+  border: 2px;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+}
+
+.div1 {
+  background-color: pink;
+
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+button {
+  position: relative;
+  top: 80px;
+}
